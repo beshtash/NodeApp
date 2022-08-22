@@ -1,3 +1,4 @@
+# Actions pipeline example
 name: Integration
 
 on:
